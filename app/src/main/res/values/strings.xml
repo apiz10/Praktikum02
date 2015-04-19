@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum02</string>
+
+    <string name="bIngg">What do you think abdul hafiz?</string>
+    <string name="bIndo">apa yang anda pikirkan abdul hafiz?</string>
+    <string name="tmbl_inggris">Translate</string>
+    <string name="tmbl_indo">Terjemahkan</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
